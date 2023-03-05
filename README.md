@@ -1,16 +1,8 @@
-# github_stalker
+# Github Stalker
 
-A new Flutter project.
+I am developing a project in Flutter using the Github API, called GithubStalker. The purpose of this project is to make daily updates to the codebase and review the code regularly so that we can track changes to the code over time. Additionally, I will be demonstrating the use of Dio structures and model structures in Flutter. This project is open source, and I aim to make it a valuable resource for the community.
 
-## Getting Started
+## DAY 1
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/43808862/222950431-659925eb-8f93-4afc-9903-feaeb2bf8183.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
